@@ -1,3 +1,8 @@
+---
+layout: default
+title: Restore - Terms of Service
+---
+
 # Restore - Terms of Service
 
 English traduction bellow.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Restore - Privacy Policy
+---
+
 # Restore - Privacy Policy
 
 English translation below.

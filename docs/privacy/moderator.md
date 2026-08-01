@@ -1,3 +1,8 @@
+---
+layout: default
+title: Moderator - Privacy Policy
+---
+
 # Moderator - Privacy Policy
 
 English translation below.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Modmail - Privacy Policy
+---
+
 # Modmail - Privacy Policy
 
 English translation below.

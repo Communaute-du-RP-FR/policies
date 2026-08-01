@@ -1,3 +1,8 @@
+---
+layout: default
+title: Liste du RP FR - Terms of Service
+---
+
 # Liste du RP FR - Terms of Service
 
 English traduction bellow.

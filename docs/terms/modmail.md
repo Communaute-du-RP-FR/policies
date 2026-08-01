@@ -1,3 +1,8 @@
+---
+layout: default
+title: Modmail - Terms of Service
+---
+
 # Modmail - Terms of Service
 
 English traduction bellow.

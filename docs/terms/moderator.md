@@ -1,3 +1,8 @@
+---
+layout: default
+title: Moderator - Terms of Service
+---
+
 # Moderator - Terms of Service
 
 English traduction bellow.

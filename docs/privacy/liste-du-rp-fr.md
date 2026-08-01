@@ -1,3 +1,8 @@
+---
+layout: default
+title: Liste du RP FR - Privacy Policy
+---
+
 # Liste du RP FR - Privacy Policy
 
 English translation below.
