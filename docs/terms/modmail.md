@@ -1,4 +1,4 @@
-# Liste du RP FR - Terms of Service
+# Modmail - Terms of Service
 
 English traduction bellow.
 
@@ -6,17 +6,17 @@ English traduction bellow.
 
 ## 0 - Introduction
 
-En utilisant le bot "Liste du RP FR" sur votre serveur Discord, vous reconnaissez avoir lu et accepté les conditions d'utilisation suivantes.
+En utilisant le bot "Modmail" en tant que membre du serveur Discord officiel de la Communauté du RP FR, vous reconnaissez avoir lu et accepté les conditions d'utilisation suivantes.
 
 ## 1 - Définitions
 
 Les termes ci-après sont utilisés dans les conditions d'utilisation de la manière suivante :
 
-- **Bot** : application mise à disposition gratuitement par l'équipe Liste du RP FR aux utilisateurs de Discord. Service avec lequel les utilisateurs interagissent.
+- **Bot** : application mise à disposition gratuitement par l'équipe Liste du RP FR aux utilisateurs de Discord, dédiée à la gestion des messages privés adressés au staff du serveur officiel de la Communauté du RP FR via un système de tickets. Service avec lequel les utilisateurs interagissent.
 
-- **Utilisateur** : personne interagissant avec le bot via un serveur Discord, qu'elle administre ou non. Toute personne utilisant le bot sur un serveur est considérée comme un utilisateur du service.
+- **Utilisateur** : personne interagissant avec le bot, que ce soit en lui envoyant un message privé pour ouvrir un ticket, ou en tant que membre du staff traitant ces tickets sur le serveur officiel de la Communauté du RP FR.
 
-- **Équipe** : équipe de développement qui gère et développe le bot Liste du RP FR. L'équipe gérant le serveur Discord de support n'est pas forcément incluse dans l'équipe de développement du bot.
+- **Équipe** : équipe de développement qui gère et développe le bot Modmail. L'équipe gérant le serveur Discord de support n'est pas forcément incluse dans l'équipe de développement du bot.
 
 ## 2 - Modifications
 
@@ -40,7 +40,7 @@ Vous vous engagez à indemniser l'équipe en cas de réclamation ou de poursuite
 
 ## 7 - Confidentialité
 
-Vous pouvez consulter notre politique de confidentialité ici : https://github.com/Communaute-du-RP-FR/policies/blob/main/privacy/liste-du-rp-fr.md. En utilisant le bot, vous reconnaissez avoir lu et accepté cette politique de confidentialité.
+Vous pouvez consulter notre politique de confidentialité ici : https://github.com/Communaute-du-RP-FR/policies/blob/main/docs/privacy/modmail.md. En utilisant le bot, vous reconnaissez avoir lu et accepté cette politique de confidentialité.
 
 ## 8 - Droits d'auteur
 
@@ -60,17 +60,17 @@ Si l'une des dispositions des présentes conditions d'utilisation est jugée inv
 
 ## 0 - Introduction
 
-By using "Liste du RP FR" on your Discord server, you acknowledge that you have read and agree to the following terms of use.
+By using "Modmail" as a member of the official Discord server of the Communauté du RP FR, you acknowledge that you have read and agree to the following terms of use.
 
 ## 1 - Definitions
 
 The following terms are used in the terms of use as follows:
 
-- **Bot**: an application made available free of charge by Liste du RP FR Team to Discord users. Service with which users interact.
+- **Bot**: an application made available free of charge by the Liste du RP FR Team to Discord users, dedicated to managing private messages addressed to the staff of the official server of the Communauté du RP FR through a ticket system. Service with which users interact.
 
-- **User**: a person interacting with the bot via a Discord server, whether or not they administer it. Any person using the bot on a server is considered a user of the service.
+- **User**: a person interacting with the bot, whether by sending it a direct message to open a ticket, or as a staff member handling those tickets on the official server of the Communauté du RP FR.
 
-- **Team**: the development team that manages and develops the bot. The team managing the Discord support server is not necessarily included in the bot development team.
+- **Team**: the development team that manages and develops the Modmail bot. The team managing the Discord support server is not necessarily included in the bot development team.
 
 ## 2 - Modifications
 
@@ -94,7 +94,7 @@ You agree to indemnify the team in the event of a claim or lawsuit arising from 
 
 ## 7 - Privacy Policy
 
-You can read our privacy policy here: https://github.com/Communaute-du-RP-FR/policies/blob/main/privacy/liste-du-rp-fr.md. By using the bot, you acknowledge having read and accepted this privacy policy.
+You can read our privacy policy here: https://github.com/Communaute-du-RP-FR/policies/blob/main/docs/privacy/modmail.md. By using the bot, you acknowledge having read and accepted this privacy policy.
 
 ## 8 - Copyright
 

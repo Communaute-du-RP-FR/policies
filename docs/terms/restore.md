@@ -42,7 +42,7 @@ L'équipe ne sera pas responsable des dommages directs ou indirects découlant d
 
 ## 7 - Confidentialité
 
-Vous pouvez consulter notre politique de confidentialité ici : https://github.com/Communaute-du-RP-FR/policies/blob/main/privacy/restore.md. En utilisant le Bot, vous reconnaissez avoir lu et accepté cette politique de confidentialité.
+Vous pouvez consulter notre politique de confidentialité ici : https://github.com/Communaute-du-RP-FR/policies/blob/main/docs/privacy/restore.md. En utilisant le Bot, vous reconnaissez avoir lu et accepté cette politique de confidentialité.
 
 ## 8 - Clause de severabilité
 
@@ -90,7 +90,7 @@ The team will not be liable for any direct or indirect damages arising from the 
 
 ## 7 - Privacy Policy
 
-You can read our privacy policy here: https://github.com/Communaute-du-RP-FR/policies/blob/main/privacy/restore.md. By using the Bot, you acknowledge having read and accepted this privacy policy.
+You can read our privacy policy here: https://github.com/Communaute-du-RP-FR/policies/blob/main/docs/privacy/restore.md. By using the Bot, you acknowledge having read and accepted this privacy policy.
 
 ## 8 - Severability clause
 

@@ -4,17 +4,17 @@ This repository is the single source of truth for the legal documents (Privacy P
 
 ## Structure
 
-- [`privacy/`](privacy) — one Privacy Policy per bot, detailing what personal data is processed, why, how long it is kept, and how to request its deletion.
-- [`terms/`](terms) — one Terms of Service per bot, defining the rules of use, liability, and other legal terms.
+- [`docs/privacy/`](docs/privacy) — one Privacy Policy per bot, detailing what personal data is processed, why, how long it is kept, and how to request its deletion.
+- [`docs/terms/`](docs/terms) — one Terms of Service per bot, defining the rules of use, liability, and other legal terms.
 
 Each document is bilingual (French, then English) and named after its bot:
 
 | Bot | Privacy Policy | Terms of Service |
 | --- | --- | --- |
-| Liste du RP FR | [privacy/liste-du-rp-fr.md](privacy/liste-du-rp-fr.md) | [terms/liste-du-rp-fr.md](terms/liste-du-rp-fr.md) |
-| Moderator | [privacy/moderator.md](privacy/moderator.md) | [terms/moderator.md](terms/moderator.md) |
-| Modmail | [privacy/modmail.md](privacy/modmail.md) | [terms/modmail.md](terms/modmail.md) |
-| Restore | [privacy/restore.md](privacy/restore.md) | [terms/restore.md](terms/restore.md) |
+| Liste du RP FR | [docs/privacy/liste-du-rp-fr.md](docs/privacy/liste-du-rp-fr.md) | [docs/terms/liste-du-rp-fr.md](docs/terms/liste-du-rp-fr.md) |
+| Moderator | [docs/privacy/moderator.md](docs/privacy/moderator.md) | [docs/terms/moderator.md](docs/terms/moderator.md) |
+| Modmail | [docs/privacy/modmail.md](docs/privacy/modmail.md) | [docs/terms/modmail.md](docs/terms/modmail.md) |
+| Restore | [docs/privacy/restore.md](docs/privacy/restore.md) | [docs/terms/restore.md](docs/terms/restore.md) |
 
 ## Why a dedicated repository
 
@@ -26,7 +26,7 @@ Each bot used to ship its own copy of these documents (or link to an external no
 
 ## Updating a document
 
-When a bot's data handling changes, update the corresponding file(s) in `privacy/` and, if relevant, `terms/`. Each bot's own repository links to its documents here via their GitHub URL, so no changes are needed on the bot side once this repo is updated.
+When a bot's data handling changes, update the corresponding file(s) in `docs/privacy/` and, if relevant, `docs/terms/`. Each bot's own repository links to its documents here via their GitHub URL, so no changes are needed on the bot side once this repo is updated.
 
 ## Contact
 
