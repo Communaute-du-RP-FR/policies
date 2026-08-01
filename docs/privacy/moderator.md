@@ -31,7 +31,7 @@ Les données traitées automatiquement sont les suivantes :<br/>
 - Les interactions liées à l'ouverture, la prise en charge et la fermeture des tickets.<br/>
 - L'activité d'envoi de messages de tous les membres, à des fins de détection de spam.<br/>
 
-La première donnée est traitée pour permettre le fonctionnement du jeu des mots enchaînés (le dernier mot joué et l'ID de son auteur sont enregistrés pour éviter les répétitions) et du salon de suggestions (le message est recopié dans un embed identifiant son auteur, puis le message original est supprimé). Dans les salons d'activité RP, l'envoi d'un message peut faire progresser un score lié à l'ID d'un propriétaire de serveur RP inscrit sur la Liste du RP FR.
+La première donnée est traitée pour permettre le fonctionnement du jeu des mots enchaînés et du salon de suggestions (le message est recopié dans un embed identifiant son auteur, puis le message original est supprimé). Dans les salons d'activité RP, l'envoi d'un message peut faire progresser un score lié à l'ID d'un propriétaire de serveur RP inscrit sur la Liste du RP FR.
 
 La deuxième donnée est traitée pour assurer le fonctionnement des commandes de modération (`/warn`, `/mute`, `/unmute`, `/role`, etc.). Selon la commande, l'ID de la personne ciblée, la raison fournie et l'ID du modérateur sont enregistrés en base de données (pour les avertissements) ou envoyés dans un salon de logs réservé au staff (pour les autres actions de modération).
 
@@ -41,13 +41,14 @@ La dernière donnée est traitée pour détecter les comportements de spam : le 
 
 Le Bot permet également au staff d'agir sur les données liées aux serveurs de rôle-play inscrits sur la Liste du RP FR (validation, modification, suppression d'inscription). Le traitement de ces données est décrit dans la Politique de Confidentialité du bot [**Liste du RP FR**](https://communaute-du-rp-fr.github.io/policies/privacy/liste-du-rp-fr.html), avec lequel **Moderator** partage sa base de données.
 
+Tout Utilisateur peut demander l'exclusion du contenu de ses messages de ces traitements automatiques en écrivant à l'adresse indiquée en Section 5.
+
 ## 3 - Conservation de données collectées
 
 Certaines données sont récoltées automatiquement et conservées temporairement (en cache) pour anticiper un éventuel traitement. C'est le cas des données du serveur sur lequel le Bot opère (et de ses membres), ainsi que des horodatages utilisés pour la détection de spam.
 
 Certaines données sont collectées de manière explicite :<br/>
 - Les avertissements (warns) : ID de la personne visée, ID du modérateur, raison et date sont enregistrés en base de données.<br/>
-- L'historique du jeu des mots enchaînés : chaque mot joué est associé à l'ID de son auteur.<br/>
 - Les logs de modération (mute, unmute, changements de rôle, ouverture/fermeture de ticket) : envoyés sous forme d'embeds dans un salon Discord réservé au staff.<br/>
 - Les historiques (transcripts) de tickets fermés : envoyés sous forme de fichier dans un salon Discord réservé au staff.<br/>
 
@@ -61,7 +62,6 @@ Exemples :<br/>
 
 Les autres données collectées de manière explicite ne sont pas supprimées automatiquement :<br/>
 - Un avertissement ne peut être supprimé de la base de données que par un membre du staff disposant des permissions d'administrateur, via l'interface `/warns`.<br/>
-- L'historique du jeu des mots enchaînés n'est réinitialisé que manuellement par un membre du staff (`/game reset`).<br/>
 - Les logs de modération et les transcripts envoyés dans les salons Discord du staff suivent la conservation propre au serveur Discord et ne peuvent être supprimés que manuellement par le staff.<br/>
 
 Ces données peuvent être supprimées complètement de notre base de données sur simple demande de la personne concernée, dans la limite de ce qui est nécessaire à la tenue d'un historique de modération légitime.
@@ -98,7 +98,7 @@ The automatically processed data are as follows:<br/>
 - Interactions related to opening, claiming and closing tickets.<br/>
 - All members' message-sending activity, for spam-detection purposes.<br/>
 
-The first piece of data is processed to enable the chained-words game (the last word played and its author's ID are recorded to prevent repetition) and the suggestions channel (the message is copied into an embed identifying its author, then the original message is deleted). In RP activity channels, sending a message may increase a score linked to the ID of a roleplay server owner registered on Liste du RP FR.
+The first piece of data is processed to enable the chained-words game and the suggestions channel (the message is copied into an embed identifying its author, then the original message is deleted). In RP activity channels, sending a message may increase a score linked to the ID of a roleplay server owner registered on Liste du RP FR.
 
 The second piece of data is processed to run moderation commands (`/warn`, `/mute`, `/unmute`, `/role`, etc.). Depending on the command, the targeted person's ID, the reason given and the moderator's ID are recorded in the database (for warnings) or sent to a staff-only log channel (for other moderation actions).
 
@@ -108,13 +108,14 @@ The last piece of data is processed to detect spam behaviour: the Bot temporaril
 
 The Bot also allows staff to act on data related to roleplay servers registered on Liste du RP FR (validating, editing, removing a listing). The processing of this data is described in the Privacy Policy of the [**Liste du RP FR**](https://communaute-du-rp-fr.github.io/policies/privacy/liste-du-rp-fr.html) bot, with which **Moderator** shares its database.
 
+Any User may request that the content of their messages be excluded from these automated processes by writing to the address given in Section 5.
+
 ## 3 - Retention of collected data
 
 Some data is collected automatically and stored temporarily (cached) in anticipation of possible processing. This is the case for the data of the server on which the Bot operates (and its members), as well as the timestamps used for spam detection.
 
 Some data is collected explicitly:<br/>
 - Warnings: the targeted person's ID, the moderator's ID, the reason and the date are recorded in the database.<br/>
-- The chained-words game history: each word played is linked to its author's ID.<br/>
 - Moderation logs (mute, unmute, role changes, ticket opening/closing): sent as embeds to a staff-only Discord channel.<br/>
 - Closed ticket transcripts: sent as a file to a staff-only Discord channel.<br/>
 
@@ -128,7 +129,6 @@ For instance:<br/>
 
 Other explicitly collected data is not deleted automatically:<br/>
 - A warning can only be removed from the database by a staff member with administrator permissions, via the `/warns` interface.<br/>
-- The chained-words game history is reset only manually by a staff member (`/game reset`).<br/>
 - Moderation logs and transcripts sent to staff Discord channels follow the Discord server's own retention and can only be removed manually by staff.<br/>
 
 This data can be completely deleted from our database upon request from the data owner, within the limits of what is necessary to maintain a legitimate moderation history.

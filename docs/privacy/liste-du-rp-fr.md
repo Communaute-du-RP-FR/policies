@@ -39,6 +39,8 @@ La troisième donnée est traitée pour assurer le fonctionnement du bot et de s
 
 La dernière donnée est traitée en temps réel pour pouvoir remplacer le message d'un utilisateur par le même message envoyé par son personnage de jeu de rôle (NPC). Le contenu du message n'est en revanche pas stocké : seuls le nom, la description, l'URL d'avatar et le format (pattern) du personnage sont enregistrés lors de sa création par l'Utilisateur.
 
+Tout Utilisateur peut demander l'exclusion du contenu de ses messages de ces traitements automatiques en écrivant à l'adresse indiquée en Section 5.
+
 ## 3 - Conservation de données collectées
 
 Certaines données sont récoltées automatiquement et conservées temporairement (en cache) pour anticiper un éventuel traitement. Les données mises en cache sont celles des serveurs sur lequel le Bot a été sollicité depuis son dernier démarrage (donc toutes les données du serveur sollicité ainsi que les données de ses membres).
@@ -103,6 +105,8 @@ The second piece of data is processed so that, firstly, we can thank the people 
 The third piece of data is processed to ensure that the bot and its commands work properly. The personal data recorded is the user's ID, notably when registering, adding assisting members, requesting a boost highlight, or setting a cooldown for a vote.
 
 The last piece of data is processed in real time so that a user's message can be replaced by the same message sent by their role-playing character (NPC). The message's content is not stored, however: only the character's name, description, avatar URL and message format (pattern) are recorded when the User creates it.
+
+Any User may request that the content of their messages be excluded from these automated processes by writing to the address given in Section 5.
 
 ## 3 - Retention of collected data
 

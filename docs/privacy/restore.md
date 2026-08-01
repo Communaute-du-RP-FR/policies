@@ -35,6 +35,8 @@ Les données lues et traitées automatiquement sont les suivantes :
 
 Ces données sont lues en temps réel au moment des opérations de récupération et ne sont pas stockées en dehors de ce qui est décrit à la section 3. Elles ne sont accessibles qu'aux Administrateurs disposant des permissions Discord nécessaires pour déclencher les commandes du Bot.
 
+Tout Propriétaire peut demander l'exclusion du contenu de ses messages de ces traitements automatiques en écrivant à l'adresse indiquée en Section 5.
+
 ## 3 - Conservation des données collectées
 
 Certaines données issues des archives sont extraites et enregistrées de manière permanente dans la base de données afin de reconstruire les entrées perdues. Ces données concernent exclusivement les informations que les Propriétaires avaient eux-mêmes soumises au programme de mise en avant.
@@ -103,6 +105,8 @@ The automatically read and processed data are as follows:
 - **Discord invitation links** associated with registered servers, to identify linked guilds.
 
 This data is read in real time during recovery operations and is not stored beyond what is described in section 3. It is only accessible to Administrators with the necessary Discord permissions to trigger the Bot's commands.
+
+Any Owner may request that the content of their messages be excluded from these automated processes by writing to the address given in Section 5.
 
 ## 3 - Retention of collected data
 

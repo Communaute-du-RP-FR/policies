@@ -36,6 +36,8 @@ La deuxième donnée est traitée pour créer, pour chaque ticket, un webhook Di
 
 La troisième donnée est traitée pour assurer le fonctionnement des commandes du staff (ouverture, réponse, fermeture d'un ticket, vérification qu'un utilisateur est bien membre du serveur, modification ou suppression d'un message relayé). L'ID de l'Utilisateur concerné, ainsi que l'ID du membre du staff ayant exécuté la commande, peuvent être enregistrés ou affichés dans les journaux d'activité du staff.
 
+Tout Utilisateur peut demander l'exclusion du contenu de ses messages de ces traitements automatiques en écrivant à l'adresse indiquée en Section 5.
+
 ## 3 - Conservation de données collectées
 
 Certaines données sont récoltées automatiquement et conservées temporairement (en cache) pour anticiper un éventuel traitement. C'est le cas des données du serveur sur lequel le Bot opère et de ses membres.
@@ -92,6 +94,8 @@ The first piece of data is processed to relay the conversation between the User 
 The second piece of data is processed to create, for each ticket, a Discord webhook reproducing the User's name and profile picture, so that their messages appear under their identity in the ticket channel seen by staff.
 
 The third piece of data is processed to run staff commands (opening, replying to, closing a ticket, checking that a user is a server member, editing or deleting a relayed message). The ID of the User concerned, as well as the ID of the staff member who ran the command, may be recorded or displayed in staff activity logs.
+
+Any User may request that the content of their messages be excluded from these automated processes by writing to the address given in Section 5.
 
 ## 3 - Retention of collected data
 
