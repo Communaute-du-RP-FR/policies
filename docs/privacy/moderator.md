@@ -39,7 +39,7 @@ La troisième donnée est traitée pour gérer le cycle de vie d'un ticket : l'I
 
 La dernière donnée est traitée pour détecter les comportements de spam : le Bot conserve temporairement, en mémoire (et non en base de données), les horodatages des derniers messages envoyés par chaque membre, identifié par son ID. Un membre envoyant plus de 5 messages en moins de 7 secondes peut être automatiquement mis en sourdine (timeout) pendant 3 jours.
 
-Le Bot permet également au staff d'agir sur les données liées aux serveurs de rôle-play inscrits sur la Liste du RP FR (validation, modification, suppression d'inscription). Le traitement de ces données est décrit dans la Politique de Confidentialité du bot [**Liste du RP FR**](https://github.com/Communaute-du-RP-FR/policies/blob/main/docs/privacy/liste-du-rp-fr.md), avec lequel **Moderator** partage sa base de données.
+Le Bot permet également au staff d'agir sur les données liées aux serveurs de rôle-play inscrits sur la Liste du RP FR (validation, modification, suppression d'inscription). Le traitement de ces données est décrit dans la Politique de Confidentialité du bot [**Liste du RP FR**](https://communaute-du-rp-fr.github.io/policies/privacy/liste-du-rp-fr.html), avec lequel **Moderator** partage sa base de données.
 
 ## 3 - Conservation de données collectées
 
@@ -106,7 +106,7 @@ The third piece of data is processed to manage a ticket's lifecycle: the opener'
 
 The last piece of data is processed to detect spam behaviour: the Bot temporarily keeps, in memory (not in the database), the timestamps of the latest messages sent by each member, identified by their ID. A member sending more than 5 messages in under 7 seconds may automatically be muted (timed out) for 3 days.
 
-The Bot also allows staff to act on data related to roleplay servers registered on Liste du RP FR (validating, editing, removing a listing). The processing of this data is described in the Privacy Policy of the [**Liste du RP FR**](https://github.com/Communaute-du-RP-FR/policies/blob/main/docs/privacy/liste-du-rp-fr.md) bot, with which **Moderator** shares its database.
+The Bot also allows staff to act on data related to roleplay servers registered on Liste du RP FR (validating, editing, removing a listing). The processing of this data is described in the Privacy Policy of the [**Liste du RP FR**](https://communaute-du-rp-fr.github.io/policies/privacy/liste-du-rp-fr.html) bot, with which **Moderator** shares its database.
 
 ## 3 - Retention of collected data
 

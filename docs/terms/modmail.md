@@ -45,7 +45,7 @@ Vous vous engagez à indemniser l'équipe en cas de réclamation ou de poursuite
 
 ## 7 - Confidentialité
 
-Vous pouvez consulter notre politique de confidentialité ici : https://github.com/Communaute-du-RP-FR/policies/blob/main/docs/privacy/modmail.md. En utilisant le bot, vous reconnaissez avoir lu et accepté cette politique de confidentialité.
+Vous pouvez consulter notre politique de confidentialité ici : https://communaute-du-rp-fr.github.io/policies/privacy/modmail.html. En utilisant le bot, vous reconnaissez avoir lu et accepté cette politique de confidentialité.
 
 ## 8 - Droits d'auteur
 
@@ -99,7 +99,7 @@ You agree to indemnify the team in the event of a claim or lawsuit arising from 
 
 ## 7 - Privacy Policy
 
-You can read our privacy policy here: https://github.com/Communaute-du-RP-FR/policies/blob/main/docs/privacy/modmail.md. By using the bot, you acknowledge having read and accepted this privacy policy.
+You can read our privacy policy here: https://communaute-du-rp-fr.github.io/policies/privacy/modmail.html. By using the bot, you acknowledge having read and accepted this privacy policy.
 
 ## 8 - Copyright
 
