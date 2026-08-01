@@ -11,10 +11,10 @@ Each document is bilingual (French, then English) and named after its bot:
 
 | Bot | Privacy Policy | Terms of Service |
 | --- | --- | --- |
-| Liste du RP FR | [docs/privacy/liste-du-rp-fr.md](docs/privacy/liste-du-rp-fr.md) | [docs/terms/liste-du-rp-fr.md](docs/terms/liste-du-rp-fr.md) |
-| Moderator | [docs/privacy/moderator.md](docs/privacy/moderator.md) | [docs/terms/moderator.md](docs/terms/moderator.md) |
-| Modmail | [docs/privacy/modmail.md](docs/privacy/modmail.md) | [docs/terms/modmail.md](docs/terms/modmail.md) |
-| Restore | [docs/privacy/restore.md](docs/privacy/restore.md) | [docs/terms/restore.md](docs/terms/restore.md) |
+| Liste du RP FR | https://communaute-du-rp-fr.github.io/policies/privacy/liste-du-rp-fr.html | https://communaute-du-rp-fr.github.io/policies/terms/liste-du-rp-fr.html |
+| Moderator | https://communaute-du-rp-fr.github.io/policies/privacy/moderator.html | https://communaute-du-rp-fr.github.io/policies/terms/moderator.html |
+| Modmail | https://communaute-du-rp-fr.github.io/policies/privacy/modmail.html | https://communaute-du-rp-fr.github.io/policies/terms/modmail.html |
+| Restore | https://communaute-du-rp-fr.github.io/policies/privacy/restore.html | https://communaute-du-rp-fr.github.io/policies/terms/restore.html |
 
 ## Why a dedicated repository
 
